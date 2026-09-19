@@ -6,7 +6,7 @@ ChurchCRM is free, open-source church management software for churches that want
 
 **Free. No subscription. Your data is yours.**
 
-Start by [trying the live demo](https://churchcrm.io/demo.html), or [install ChurchCRM](https://churchcrm.io/install.html) on your own hosting. ChurchCRM currently lists 49 supported locales; translation coverage varies by locale.
+Start by [trying the live demo](https://churchcrm.io/demo.html?utm_source=github&utm_medium=referral&utm_campaign=github_content&utm_content=org_profile_demo), or [install ChurchCRM](https://churchcrm.io/install.html?utm_source=github&utm_medium=referral&utm_campaign=github_content&utm_content=org_profile_install) on your own hosting. ChurchCRM currently lists 49 supported locales; translation coverage varies by locale.
 
 [![Latest Release](https://img.shields.io/github/v/release/churchcrm/crm?label=Latest%20Release)](https://github.com/ChurchCRM/CRM/releases/latest)
 [![GitHub contributors](https://img.shields.io/github/contributors/churchcrm/crm.svg)](https://github.com/ChurchCRM/CRM/graphs/contributors)
@@ -21,7 +21,7 @@ Explore the real workflows churches use every week:
 
 **People & families → Groups → Events & attendance → Giving & financial tracking → Volunteers → Reports**
 
-→ [Try the live demo](https://churchcrm.io/demo.html) · [Install ChurchCRM](https://churchcrm.io/install.html) · [Read the documentation](https://docs.churchcrm.io/)
+→ [Try the live demo](https://churchcrm.io/demo.html?utm_source=github&utm_medium=referral&utm_campaign=github_content&utm_content=org_profile_demo) · [Install ChurchCRM](https://churchcrm.io/install.html?utm_source=github&utm_medium=referral&utm_campaign=github_content&utm_content=org_profile_install) · [Read the documentation](https://docs.churchcrm.io/)
 
 ChurchCRM is self-hosted and community-maintained. The repositories below are here for contributors, administrators, and anyone who wants to inspect or improve the project.
 
@@ -38,7 +38,7 @@ ChurchCRM is self-hosted and community-maintained. The repositories below are he
 
 | Repo | What it is | Who it's for |
 |------|-----------|--------------|
-| [**ChurchCRM.io**](https://github.com/ChurchCRM/ChurchCRM.io) | The public marketing website at [churchcrm.io](https://churchcrm.io) | Designers and writers improving the homepage, blog, and landing pages |
+| [**ChurchCRM.io**](https://github.com/ChurchCRM/ChurchCRM.io) | The public marketing website at [churchcrm.io](https://churchcrm.io/?utm_source=github&utm_medium=referral&utm_campaign=github_content&utm_content=org_profile_website) | Designers and writers improving the homepage, blog, and landing pages |
 | [**docs.churchcrm.io**](https://github.com/ChurchCRM/docs.churchcrm.io) | User and administrator documentation at [docs.churchcrm.io](https://docs.churchcrm.io) — built with TypeScript/Docusaurus | Anyone improving guides, tutorials, admin docs, or developer references |
 
 ### Extensions & Integrations
@@ -86,7 +86,7 @@ Church website integration → WordPress-ChurchCRM-Calendar repo
 
 ## Community
 
-[![Website](https://img.shields.io/badge/Website-churchcrm.io-blue)](https://churchcrm.io/)
+[![Website](https://img.shields.io/badge/Website-churchcrm.io-blue)](https://churchcrm.io/?utm_source=github&utm_medium=referral&utm_campaign=github_content&utm_content=org_profile_badge)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/tuWyFzj3Nj)
 [![X / Twitter](https://img.shields.io/badge/X-@getChurchCRM-black?logo=x)](https://x.com/getChurchCRM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ChurchCRM-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/getchurchcrm/)
